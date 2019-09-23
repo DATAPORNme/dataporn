@@ -1,0 +1,13 @@
+a {
+  color: #111;
+  text-decoration: none;
+  background-color: #FFFFFF;
+}
+
+a:hover {
+  background-color: #FFD700;
+}
+
+small {
+  font-size: .50rem;
+}

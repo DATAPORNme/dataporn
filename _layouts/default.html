@@ -1,0 +1,13 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "it" }}" dir="ltr" class="">
+  {%- include head.html -%}
+  <body>
+    {%- include header.html -%}
+    {{ content }}
+    {%- include footer.html -%}
+  </body>
+</html>

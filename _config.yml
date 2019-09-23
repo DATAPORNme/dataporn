@@ -1,0 +1,73 @@
+name: 'Dataporn'
+aka: ''
+title: 'DATAPORN'
+payoff: "when data meets a sapiens the sapiens goes obsolete"
+description: "sex and data"
+locale: en_EN
+
+# Url
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://dataporn.me
+
+# SEO
+google_analytics:
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/assets/img/dataporn_metaimage.png"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+#Style
+sass:
+  sass_dir: _sass
+  style: compression
+
+# Favicon
+touch_icon: "/assets/img/favicon/apple-touch-icon-144x144.png"
+favicon: "/assets/img/favicon/favicon.ico"
+
+# collections:
+#  activities:
+#    output: true
+#  services:
+#    output: true
+
+jekyll-archives:
+  enabled:
+    - catageories
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+   - Gemfile
+   - Gemfile.lock
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/   - Gemfile
+   - Gemfile.lock
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/

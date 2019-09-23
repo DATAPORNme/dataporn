@@ -1,0 +1,17 @@
+---
+layout: default
+title: Dataporn
+---
+
+
+
+{%- for post in site.posts -%}
+
+<article class="">
+  <h1 class="">{{ post.title | escape }}</h1>
+  <div class="">{{ post.content }}<div>
+  <time class="">{{ post.date | date: "%Y%m%d" }} <small><a class="" href="{{ post.url }}">permalink</a></small></time>
+<article>
+
+
+{%- endfor -%}
