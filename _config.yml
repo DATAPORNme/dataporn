@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://dataporn.me
 
 # SEO
-google_analytics:
+google_analytics: UA-148499280-1
 defaults:
   - scope:
       path: ""
