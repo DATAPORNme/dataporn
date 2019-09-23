@@ -36,4 +36,3 @@ gem "jekyll-sitemap"
 gem "jekyll-paginate"
 gem "rouge"
 gem "html-proofer"
-gem 'jekyll-archives'

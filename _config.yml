@@ -3,7 +3,7 @@ aka: ''
 title: 'DATAPORN'
 payoff: "when data meets a sapiens the sapiens goes obsolete"
 description: "sex and data"
-locale: en_EN
+lang: en_EN
 
 # Url
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -36,23 +36,11 @@ favicon: "/assets/img/favicon/favicon.ico"
 #  services:
 #    output: true
 
-jekyll-archives:
-  enabled:
-    - catageories
-  layout: archive
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-archives
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

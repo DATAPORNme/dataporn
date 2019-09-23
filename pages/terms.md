@@ -7,6 +7,17 @@ date: 2019-09-23
 
 
 ## Owner and Data Controller
+
+Dataporn is using Google Analytics cookies.
+
+Dataporn have a data processing agreement with google.
+
+Dataporn have enabled IP anonymization/masking.
+
+Dataporn have disabled data sharing.
+
+Dataporn is not using any other google services in combination with Google Analytics.
+
 ### Types of Data collected
 Among the types of Personal Data that this Site collects, by itself or through third parties, there are: Cookies; Usage Data.
 

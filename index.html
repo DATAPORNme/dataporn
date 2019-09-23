@@ -5,13 +5,14 @@ title: Dataporn
 
 
 
+
 {%- for post in site.posts -%}
+<article class="pl2">
 
-<article class="">
-  <h1 class="">{{ post.title | escape }}</h1>
-  <div class="">{{ post.content }}<div>
-  <time class="">{{ post.date | date: "%Y%m%d" }} <small><a class="" href="{{ post.url }}">permalink</a></small></time>
-<article>
+  <small><time class="sans-serif">{{ post.date | date: "%Y%m%d" }} <a class="" href="#{{ post.title }}">{{ post.title | escape }}</a></time></small>
+  <a id="{{ post.title }}"></a>
+  <div class="f3">{{ post.content }}<div>
+  <span class="bb b--near-white measure"></span>
 
-
+</article>
 {%- endfor -%}

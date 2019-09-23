@@ -3,9 +3,9 @@ layout: compress
 ---
 
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "it" }}" dir="ltr" class="near-black bg-washed-red">
+<html lang="{{ page.lang | default: site.lang | default: "" }}" dir="ltr" class="near-black bg-washed-red">
   {%- include head.html -%}
-  <body>
+  <body class="pa2 mw8 center">
     {%- include header.html -%}
     {{ content }}
     {%- include footer.html -%}
