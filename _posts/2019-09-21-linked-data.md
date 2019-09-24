@@ -6,7 +6,7 @@ date:   2019-09-21
 
 The strange cuckoldry triangle.
 
-The data exists, the links connects it. And the ontologist looks them.
+The data exists, the links connect it. And the ontologist looks them.
 
 And the him, among you, if he never speaks, has already seen everything.
 
