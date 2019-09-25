@@ -10,4 +10,4 @@ and it is a discourse on orgasm.
 
 Declares predictive elements that the eyes do not see,
 
-because they look at the data as if they were a dressed-up porn actress.
+because they look at the data as if they were a dressed porn actress.
