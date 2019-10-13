@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dressed up Data "
+title:  "Dressed up Data"
 date:   2019-09-25
 ---
 
