@@ -1,9 +1,13 @@
 ---
-layout: compress
+layout: default
 ---
 
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "" }}" dir="ltr" class="near-black bg-washed-red">
   {%- include head.html -%}
+  <body class="pa2 mw8 center">
+    {%- include header.html -%}
     {{ content }}
+    {%- include footer.html -%}
+  </body>
 </html>

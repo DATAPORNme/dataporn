@@ -1,7 +1,9 @@
 a {
-  color: #111;
+  color: #ffdfdf;
   text-decoration: none;
-  background-color: #FFFFFF;
+  background-color: #111;
+  padding-left: .25rem;
+  padding-right: .25rem;
 }
 
 a:hover {

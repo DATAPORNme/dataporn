@@ -1,18 +1,13 @@
 ---
-layout: default
+layout: home
 title: Dataporn
 ---
-
-
 
 
 {%- for post in site.posts -%}
 <article class="pl2">
 
-  <small><time class="sans-serif">{{ post.date | date: "%Y%m%d" }} <a class="" href="#{{ post.title }}">{{ post.title | escape }}</a></time></small>
-  <a id="{{ post.title }}"></a>
-  <div class="f3">{{ post.content }}<div>
-  <span class="bb b--near-white measure"></span>
-
+  <small><time class="courier">{{ post.date | date: "%Y%m%d" }} <a class="ttu" href="{{ post.url }}">{{ post.title | escape }}</a> </time></small>
+  <div class="f5 f3-l">{{ post.content }}<div>
 </article>
 {%- endfor -%}
