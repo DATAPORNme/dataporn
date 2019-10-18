@@ -2,6 +2,7 @@
 layout: post
 title:  ".xxx folder"
 date:   2019-09-22
+tags: [data, dataporn]
 ---
 
 He pulled the LAN cable up to the phone socket and the 56k ground and clinked to the online.

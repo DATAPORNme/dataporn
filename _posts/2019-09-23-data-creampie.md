@@ -2,6 +2,7 @@
 layout: post
 title:  "Data creampie"
 date:   2019-09-23
+tags: [data, dataporn]
 ---
 
 Enjoy the innovation manager with disruptive stuff.

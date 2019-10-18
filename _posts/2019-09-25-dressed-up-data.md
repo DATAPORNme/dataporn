@@ -2,6 +2,7 @@
 layout: post
 title:  "Dressed up Data"
 date:   2019-09-25
+tags: [data, dataporn]
 ---
 
 The mouth speaks of data and knowledge

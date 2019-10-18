@@ -2,6 +2,7 @@
 layout: post
 title:  "Linked data"
 date:   2019-09-21
+tags: [data, dataporn]
 ---
 
 The strange cuckoldry triangle.
