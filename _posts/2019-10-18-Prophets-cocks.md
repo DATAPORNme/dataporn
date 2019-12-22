@@ -2,7 +2,9 @@
 layout: post
 title:  "Prophets and cocks"
 date:   2019-10-18
-tags: [data, dataporn]
+tags:
+  - data
+  - dataporn
 ---
 
 The prophets about open tell the good for the people
