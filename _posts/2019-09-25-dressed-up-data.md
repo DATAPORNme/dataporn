@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dressed up Data"
+title:  "Dressed up data"
 date:   2019-09-25
 tags:
   - data
@@ -13,4 +13,4 @@ and it is a discourse on orgasm.
 
 Declares predictive elements that the eyes do not see,
 
-because they look at the data as if they were a dressed porn actress.
+as if the data were a dressed porn actress.

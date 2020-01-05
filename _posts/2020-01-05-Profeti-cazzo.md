@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prophets and cocks"
+title:  "Profeti e cazzi"
 date:   2020-01-05
 tags:
   - data
