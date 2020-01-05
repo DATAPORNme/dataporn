@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Erezione di dati"
-date:   2020-01-05
+date:   2020-01-08
 tags:
   - data
   - dataporn
