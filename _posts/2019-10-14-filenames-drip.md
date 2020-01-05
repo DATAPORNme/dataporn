@@ -7,7 +7,7 @@ tags:
   - dataporn
 ---
 
-What ordinary eyes land
+Ordinary eyes land
 
 on the static folder of documents handled
 
