@@ -7,7 +7,7 @@ tags:
   - dataporn
 ---
 
-Per Mcluhan diceva che *il medium è il messaggio*.
+Per Mcluhan *il medium è il messaggio*.
 
 Per Debord lo spettacolo è *un rapporto sociale fra individui mediato dalle immagini*.
 
