@@ -20,7 +20,7 @@ defaults:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-future: false
+#future: false
 
 #Style
 sass:
