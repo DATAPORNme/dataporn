@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La persona è il messaggio"
-date:   2020-01-15
+date:   2020-01-16
 tags:
   - data
   - dataporn
