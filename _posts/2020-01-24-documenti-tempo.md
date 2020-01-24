@@ -13,4 +13,4 @@ tra il leggere e il computare.
 
 L'elaborazione si sviluppa in un tempo umano
 
-che la macchina comprime, espandando.
+che la macchina comprime, espandendo.
