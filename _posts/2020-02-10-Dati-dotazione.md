@@ -5,6 +5,7 @@ date:   2020-02-10
 tags:
   - data
   - dataporn
+  - Misbehaving
 ---
 
 L'effetto dotazione ci fa dare più valore a ciò che possediamo:
