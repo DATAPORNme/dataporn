@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 permalink: privacy
 title: Privacy Policy
 date: 2019-09-23
