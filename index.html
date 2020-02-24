@@ -7,7 +7,7 @@ title: Dataporn
 {%- for post in site.posts -%}
 <article class="pl2 pb4">
 
-  <small><time class="courier">{{ post.date | date: "%Y%m%d" }} <a class="ttu" href="{{ post.url }}">{{ post.title | escape }}</a> </time></small>
+  <small><time class="courier">{{ post.date | date: "%Y%m%d" }}</time></small> <a class="ttu" href="{{ post.url }}">{{ post.title | escape }}</a> 
   <!-- <div class="f5 f3-l">{{ post.content }}<div> -->
 </article>
 {%- endfor -%}
