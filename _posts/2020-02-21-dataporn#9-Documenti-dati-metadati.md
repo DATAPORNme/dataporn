@@ -3,7 +3,7 @@ layout: post
 title:  "Dataporn #9 Documenti dati e metadati"
 date:   2020-02-21
 tags:
-  - data
+  - data4parents
   - dataporn
   - podcast
 ---
