@@ -22,7 +22,7 @@ Nel frattempo scattano le fazioni pro e contro pubblicazione della bozza che ha 
 
 Ora delle due l'una: o alcuni giornalisti sono complici e ricattabili, oppure considerano notizia un fatto che ha una sua fissità nello spazio e nel tempo: una bozza non è dotata né di firma né di protocollo né tantomeno di attuatività. A questo aggiungo che la CNN esplicita nel titolo "Italian cabinet discussing proposal for coronavirus lockdown on chunk of northern Italy" che è una *draft proposal*, mentre nel primo lancio del Corriere spiccava invece l'etichetta "esclusivo".
 
-Chi lavora con i dati sa che questi raramente sono originali, e che le informazioni derivano dai cmetodi e criteri di rilevazione, osservazione e aggregazione. In questo caso l'ansia ha escluso la vera notizia, ovvero che l'ufficio stampa della Regione Lombardia, nel ricevere la bozza per le osservazioni, ha *passato* il documento non ancora approvato ai giornalisti. Quindi uscire con un lancio
+Chi lavora con i dati sa che questi raramente sono originali, e che le informazioni derivano dai metodi e criteri di rilevazione, osservazione e aggregazione. In questo caso l'ansia ha escluso la vera notizia, ovvero che l'ufficio stampa della Regione Lombardia, nel ricevere la bozza per le osservazioni, ha *passato* il documento non ancora approvato ai giornalisti. Quindi uscire con un lancio
 
 "<code>Ad alcuni giornalisti è stata inoltrata una bozza del decreto dall'ufficio stampa della Regione Lombardia, stiamo valutando le conseguenze di una pubblicazione - Seguiranno aggiornamenti</code>"
 
