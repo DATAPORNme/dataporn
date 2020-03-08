@@ -1,13 +1,14 @@
 a {
   color: #ffdfdf;
   text-decoration: none;
-  background-color: #111;
+  background-color: #333;
   padding-left: .25rem;
   padding-right: .25rem;
 }
 
 a:hover {
-  background-color: #FFD700;
+  background-color: #ffdfdf;
+  color: #111;
 }
 
 small {
