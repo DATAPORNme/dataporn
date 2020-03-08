@@ -10,7 +10,7 @@ Ieri sera alle 20:12 il Corriere pubblica la bozza del Decreto della Presidenza 
 
 Alle 22:07 Il Post spiega che [non pubblicherà nulla](https://twitter.com/ilpost/status/1236398020650041346) finché non sarà ufficiale. Alla mezzanotte giornalisti e osservatori si accorgono che in Gazzetta Ufficiale non è pubblicato nulla.
 
-Alle Alle 00:45 (siamo ormai l'8 marzo) Lorenzo Pregliasco [scrive che è prevista una conferenza stampa "a breve"](https://twitter.com/lorepregliasco/status/1236437910930558977).
+Alle 00:45 (siamo ormai l'8 marzo) Lorenzo Pregliasco [scrive che è prevista una conferenza stampa "a breve"](https://twitter.com/lorepregliasco/status/1236437910930558977).
 
 Alle 1:42 Pregliasco conferma la conferenza ["tra 10 minuti"](https://twitter.com/lorepregliasco/status/1236452283900141570).
 
