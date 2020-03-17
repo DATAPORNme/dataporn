@@ -6,7 +6,7 @@ tags:
   - data
 ---
 
-Leggo di recriminazioni di insegnanti al predominio di Google scoperto in questi giorni di *classi online*. Vorrei chiedere ai vari docenti: non vi mette ansia il predominio di Spaggiari nel registro elettronico, di Engineering e Replay negli applicativi e nelle infrastrutture telematiche (sì, vengono chiamate ancora così), o Sebina nelle biblioteche?
+Leggo recriminazioni di insegnanti al predominio di Google scoperto in questi giorni di *classi online*. Vorrei chiedere ai vari docenti: non vi mette ansia il predominio di Spaggiari nel registro elettronico, di Engineering e Replay negli applicativi e nelle infrastrutture telematiche (sì, vengono chiamate ancora così), o Sebina nelle biblioteche?
 
 Ancora: sapete che i termini di servizio di molti di questi applicativi sono vaghi, e demandando spesso al dirigente scolastico la responsabilità su privacy e a GDPR, senza avere nessuna data policy?
 
