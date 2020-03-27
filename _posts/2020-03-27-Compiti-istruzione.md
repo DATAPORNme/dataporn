@@ -6,7 +6,7 @@ tags:
   - data
 ---
 
-Fin dalle elementari discutevo sui compiti a casa. Gli insegnanti chiedevano un supporto dai genitori e io ero contrario. Nella classe c'erano molti genitori stranieri che venivano alle riunioni di classe con i figli maggiori per farsi tradurre. Io sostenevo che affidarsi ai genitori avrebbe aumentato il divario tra ragazzi, perché non tutti avrebbero avuto supporto. Ma non solo quelli con genitori stranieri, ma in generale perché gli indici di analfabetismo di ritorno, dimostravano che probabilmente le mamme e i papà non erano in grado di fare dei banali problemi di matematica o comprendere un testo scritto.
+Ci si lamenta che i ragazzi abbiano troppi compiti ma è che i genitori si sono accorti di non saperli fare. Fin dalle elementari discutevo sui compiti a casa. Gli insegnanti chiedevano un supporto dai genitori e io ero contrario. Nella classe c'erano molti genitori stranieri che venivano alle riunioni di classe con i figli maggiori per farsi tradurre. Io sostenevo che affidarsi ai genitori avrebbe aumentato il divario tra ragazzi, perché non tutti avrebbero avuto supporto. Ma non solo quelli con genitori stranieri, ma in generale perché gli indici di analfabetismo di ritorno, dimostravano che probabilmente le mamme e i papà non erano in grado di fare dei banali problemi di matematica o comprendere un testo scritto.
 
 Con le lezioni a distanza molti lamentano l'eccessivo carico di compiti. Non è vero. È vero purtroppo che lo svolgimento impegna molto più tempo perché i genitori non sono capaci di aiutare i figli con gli eventuali dubbi. Dubbi legati a testi scolastici con errori nei problemi di matematica e geometria, con testi confusi e attività che non stimolano la logica ma l'apprendimento per automatismo.
 
