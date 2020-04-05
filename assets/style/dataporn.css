@@ -2,8 +2,7 @@ a {
   color: #ffdfdf;
   text-decoration: none;
   background-color: #333;
-  padding-left: .25rem;
-  padding-right: .25rem;
+  padding: .20rem .25rem .15rem .25rem;
 }
 
 a:hover {
