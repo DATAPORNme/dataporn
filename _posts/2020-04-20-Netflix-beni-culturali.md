@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Netflix e beni culturali"
+title:  "Netflix e servizi web per dati dei beni culturali"
 date:   2020-04-20
 tags:
   - dataporn
