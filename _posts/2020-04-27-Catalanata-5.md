@@ -7,6 +7,6 @@ tags:
   - catalanate
 ---
 
-**È molto meglio avere delle scuole sicure, recenti, con buone tecnologie e degli insegnanti giovani, piuttosto che cadenti, obsolete e con gli insegnanti che hanno la stessa età dei muri**
+**È molto meglio avere delle scuole sicure, recenti, con buone tecnologie e degli insegnanti giovani, piuttosto che cadenti, obsolete e con personale che ha la stessa età dei muri**
 
-[Massimo Catalano](https://it.wikipedia.org/wiki/Massimo_Catalano) e le sue [Catalanate](https://youtu.be/JGpSoU66kQU) ci fano riconoscere le evidenze.
+[Massimo Catalano](https://it.wikipedia.org/wiki/Massimo_Catalano) e le sue [Catalanate](https://youtu.be/JGpSoU66kQU) ci fanNo riconoscere le evidenze.
