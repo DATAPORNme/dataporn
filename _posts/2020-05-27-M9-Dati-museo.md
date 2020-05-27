@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dati per un museo"
+title:  "Non presenze e vantaggio competitivo nei musei"
 date:   2020-05-27
 tags:
   - data
