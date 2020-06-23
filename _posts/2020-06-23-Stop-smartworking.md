@@ -6,7 +6,7 @@ tags:
   - data
 ---
 
-Confesercenti di Torino e provincia [chiedono](https://www.torinoggi.it/2020/06/22/leggi-notizia/argomenti/economia-4/articolo/confesercenti-torino-rilancia-lallarme-di-sala-dipendenti-tornino-in-ufficio-commercio-a-rischio.html) al Governatore del Piemonte e alla Sindaca di Torino di bloccare lo smart working. L'articolo la chiama "emergenza pausa pranzo", che forse fa il paio con quanto [dichiarato](https://www.lastampa.it/cronaca/2020/06/19/news/il-sindaco-di-milano-stop-con-lo-smart-working-torniamo-a-lavorare-1.38985794) dal Sindaco di Milano sempre sulla questione.
+Confesercenti di Torino e provincia [chiede](https://www.torinoggi.it/2020/06/22/leggi-notizia/argomenti/economia-4/articolo/confesercenti-torino-rilancia-lallarme-di-sala-dipendenti-tornino-in-ufficio-commercio-a-rischio.html) al Governatore del Piemonte e alla Sindaca di Torino di bloccare lo smart working. L'articolo la chiama "emergenza pausa pranzo", che forse fa il paio con quanto [dichiarato](https://www.lastampa.it/cronaca/2020/06/19/news/il-sindaco-di-milano-stop-con-lo-smart-working-torniamo-a-lavorare-1.38985794) dal Sindaco di Milano sempre sulla questione.
 
 Ironizzare su Confesercenti e i suoi iscritti è sbagliato e irrispettoso: perdere o azzerare gli introiti di colpo è drammatico. Chiedere limiti o blocchi a soluzioni che usano gli stessi clienti è autolesionista. Il bar che vive di pause pranzo, chiede di complicare le attività dei suoi stessi clienti per salvarsi. L'amministratore che accoglie questa richiesta agisce come una sorta di conte feudale che esercita il potere decidendo la vita o la morte sui sudditi/elettori. Il sistema è però così complesso che deve armonizzare tantissimi fattori, principalmente il costo dello spazio.
 
