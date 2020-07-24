@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Il senso delle Ferragni per i musei"
+title:  "Il senso di Ferragni per i musei"
 date:   2020-07-24
 tags:
   - data
