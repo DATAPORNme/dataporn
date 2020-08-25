@@ -20,6 +20,8 @@ defaults:
 # Build settings
 markdown: kramdown
 highlighter: rouge
+kramdown:
+  footnote_backlink: <
 #future: false
 
 #Style
