@@ -3,7 +3,6 @@ layout: post
 title:  "Dressed up data"
 date:   2019-09-25
 tags:
-  - data
   - dataporn
 ---
 

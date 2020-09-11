@@ -4,10 +4,35 @@ title: Dataporn
 ---
 
 
-{%- for post in site.posts -%}
+{%- for post in paginator.posts -%}
 <article class="pl2 pb4">
-
-  <small><time class="courier">{{ post.date | date: "%Y%m%d" }}</time></small> <a class="ttu" href="{{ post.url }}">{{ post.title | escape }}</a> 
+  <table class="mw8 table_home" cellspacing="0" cellpadding="0">
+    <tbody class="">
+      <tr>
+        <td class="pr3 "><small><time class="courier">{{ post.date | date: "%Y%m%d" }}</time></small></td>
+        <td class="pr3 "><a class="ttu lh-copy" href="{{ post.url }}">{{ post.title | escape }}</a></td>
+      </tr>
+    </tbody>
+  </table>
   <!-- <div class="f5 f3-l">{{ post.content }}<div> -->
 </article>
 {%- endfor -%}
+
+<!-- Pagination links -->
+<time class="f6 fw1 black courier">
+  {% if paginator.previous_page %}
+  <a class="" href="{{ paginator.previous_page_path }}"><</a>
+  {% endif %}
+  <small>Page: {{ paginator.page }} of {{ paginator.total_pages }}</small>
+  {% if paginator.next_page %}
+  <a class="" href="{{ paginator.next_page_path }}">></a>
+  {% endif %}
+</time>
+
+<div class="pt5 courier lh-copy">
+  <small>
+  {% for tag in site.tags %}
+  <a href="{{ site.url }}/tags#{{ tag[0] | slugify }}" class="">{{ tag[0] }}</a>
+  {% endfor %}
+  </small>
+</div>

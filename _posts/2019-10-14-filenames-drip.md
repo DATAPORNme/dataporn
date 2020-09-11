@@ -3,7 +3,6 @@ layout: post
 title:  "Filenames drip"
 date:   2019-10-14
 tags:
-  - data
   - dataporn
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title:  ".xxx folder"
 date:   2020-01-12
 tags:
-  - data
   - dataporn
 ---
 

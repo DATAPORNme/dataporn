@@ -3,8 +3,7 @@ layout: post
 title:  "Non presenze e vantaggio competitivo nei musei"
 date:   2020-05-27
 tags:
-  - data
-  - beni culturali
+  - data heritage
 ---
 
 *Il mio non arrivo nella città di N. / è avvenuto puntualmente. // Sei stato avvertito / con una lettera non spedita.*

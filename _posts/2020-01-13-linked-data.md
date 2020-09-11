@@ -3,7 +3,6 @@ layout: post
 title:  "Linked data"
 date:   2020-01-13
 tags:
-  - data
   - dataporn
 ---
 

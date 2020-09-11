@@ -2,30 +2,46 @@
 layout: default
 ---
 
-
 <article class="vh-100 dt w-100">
     <div class="dtc v-mid cover ph2 ph4-m ph5-l">
-      <span class="ttu courier pv3">
+      <span class="ttu f2 measure">
         <h3><a href="/">{{ page.title }}</a></h3>
       </span>
-      <div class="f5 f2-l measure lh-title">
-        {{ content }}
-        <span class="ttu courier">
-        <small>
-          #{{ page.tags | sort | join: " #" }}
-        </small>
-        </span>
-      </div>
 
       <time class="f6 fw1 black courier">
         {% if page.previous.url %}
         <a class="" href="{{page.previous.url}}"><</a>
         {% endif %}
-        <small>{{ page.date | date: "%Y%m%d" }}</small>
+        <small>{{ page.date | date: "%Y %m %d" }}</small>
+
+        <span class="courier">
+          <small>
+            {% if page.tags %}
+              {% for tag in page.tags %}
+                <a href="{{ site.url }}/tags#{{ tag | slugify }}" class="post-tag">#{{ tag }}</a>
+              {% endfor %}
+            {% endif %}
+          </small>
+        </span>
+
         {% if page.next.url %}
         <a class="" href="{{page.next.url}}">></a>
         {% endif %}
       </time>
+
+      <div class="measure lh-copy">
+        {{ content }}
+      </div>
+
+      <ul class="list pl0 lh-copy courier">
+        {% for post in site.related_posts limit:3 %}
+        <li>
+          <small><a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+          </a></small>
+        </li>
+        {% endfor %}
+      </ul>
 
       {%- include footer.html -%}
     </div>

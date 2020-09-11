@@ -3,7 +3,6 @@ layout: post
 title:  "Dati agghindati"
 date:   2020-01-09
 tags:
-  - data
   - dataporn
 ---
 

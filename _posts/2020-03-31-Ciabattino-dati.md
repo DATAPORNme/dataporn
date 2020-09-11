@@ -3,7 +3,6 @@ layout: post
 title:  "Il ciabattino dei dati"
 date:   2020-03-31
 tags:
-  - data
   - dataporn
 ---
 

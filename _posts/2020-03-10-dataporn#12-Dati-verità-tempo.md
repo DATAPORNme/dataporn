@@ -3,8 +3,6 @@ layout: post
 title:  "Dataporn #12 Dati, verità e tempo"
 date:   2020-03-10
 tags:
-  - data
-  - dataporn
   - podcast
 ---
 

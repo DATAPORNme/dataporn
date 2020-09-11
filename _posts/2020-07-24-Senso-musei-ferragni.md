@@ -3,9 +3,7 @@ layout: post
 title:  "Il senso di Ferragni per i musei"
 date:   2020-07-24
 tags:
-  - data
-  - dataporn
-  - heritage
+  - data heritage
 ---
 
 Ma avete saputo che Ferragni è stata agli Uffizi ([versione 1](https://www.instagram.com/p/CCu_l3JIvFn/?utm_source=ig_web_copy_link) e [versione 2](https://www.instagram.com/p/CCvBhtsJn3D/?utm_source=ig_web_copy_link)) e poi al [MarTA](https://www.instagram.com/p/CC6SDmTA7Su/?utm_source=ig_web_copy_link)? Prima era stata in visita privata alla [Cappella Sistina](https://www.instagram.com/p/CBgebaJD5JW/?utm_source=ig_web_copy_link). Queste *stories* non sono un'esclusiva per l'imprenditrice VIP, ma sono esperienze che chiunque può fare pagando un prezzo ridicolo rispetto al valore di ciò che vede.

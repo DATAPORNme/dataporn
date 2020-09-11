@@ -4,8 +4,6 @@ title:  "Spiegare dati e porno ad un bimbo"
 date:   2020-06-18
 tags:
   - dataporn
-  - data
-  - porn
 ---
 
 Rispondere ad un bimbo o una bimba di tre anni che chiede «*perché hai detto "questo è un dato"?*», è difficile quanto rispondere a *che cosa vuol dire la parola "porno"?*.

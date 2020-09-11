@@ -3,8 +3,6 @@ layout: post
 title:  "Dataporn #10 Come devono essere i dati del coronavirus"
 date:   2020-02-24
 tags:
-  - data
-  - dataporn
   - podcast
 ---
 

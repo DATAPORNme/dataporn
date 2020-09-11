@@ -3,7 +3,6 @@ layout: post
 title:  "Empty your privacy"
 date:   2019-09-24
 tags:
-  - data
   - dataporn
 ---
 

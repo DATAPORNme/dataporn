@@ -4,7 +4,6 @@ title:  "I dati e l'orchestra"
 date:   2020-06-30
 tags:
   - data
-  - dataporn
 ---
 
 [Roberto Busa](https://it.wikipedia.org/wiki/Roberto_Busa) verso la fine di Rovesciando Babele (p. 175)

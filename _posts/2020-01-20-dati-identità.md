@@ -4,7 +4,6 @@ title:  "Dati e identità"
 date:   2020-01-20
 tags:
   - data
-  - dataporn
 ---
 
 I dati sono un paese sconfinato,

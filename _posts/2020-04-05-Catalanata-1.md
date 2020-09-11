@@ -3,7 +3,6 @@ layout: post
 title:  "Catalanata 1 mascherine"
 date:   2020-04-05
 tags:
-  - dataporn
   - catalanate
 ---
 

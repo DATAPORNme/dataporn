@@ -4,6 +4,7 @@ title: 'DATAPORN'
 payoff: "when data meets a sapiens the sapiens goes obsolete"
 description: "sex and data"
 lang: en_EN
+paginate: 5
 
 # Url
 baseurl: "" # the subpath of your site, e.g. /blog

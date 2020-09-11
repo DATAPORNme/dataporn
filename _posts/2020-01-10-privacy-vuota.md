@@ -3,7 +3,6 @@ layout: post
 title:  "Privacy vuota"
 date:   2020-01-10
 tags:
-  - data
   - dataporn
 ---
 

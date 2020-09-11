@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Dataporn #11 I dati e il ricordo"
+title:  "Dataporn #11 data4parents I dati e il ricordo"
 date:   2020-02-25
 tags:
-  - data4parents
-  - dataporn
   - podcast
 ---
 

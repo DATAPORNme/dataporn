@@ -3,7 +3,6 @@ layout: post
 title:  "Filename gocciolano"
 date:   2020-01-07
 tags:
-  - data
   - dataporn
 ---
 

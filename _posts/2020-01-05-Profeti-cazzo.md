@@ -3,7 +3,6 @@ layout: post
 title:  "Profeti e cazzi"
 date:   2020-01-05
 tags:
-  - data
   - dataporn
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title:  "Data erection"
 date:   2019-10-13
 tags:
-  - data
   - dataporn
 ---
 

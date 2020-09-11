@@ -4,7 +4,6 @@ title:  "App e cialtroneria"
 date:   2020-04-17
 tags:
   - dataporn
-  - data
 ---
 
 *[cialtróne](http://www.treccani.it/vocabolario/cialtrone/) s. m. (f. -a) [etimo incerto]. – Persona volgare e spregevole, arrogante e poco seria, trasandata nell’operare, priva di serietà e correttezza nei rapporti personali, o che manca di parola nei rapporti di lavoro. Anche, con sign. attenuato, persona sciatta nel vestire e nel portamento, o che nel lavoro sia solita fare le cose in fretta e senza attenzione*.

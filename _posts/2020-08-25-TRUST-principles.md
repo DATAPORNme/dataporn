@@ -4,7 +4,6 @@ title:  "I principi di TRUST per i repository digitali"
 date:   2020-08-25
 tags:
   - data
-  - FAIR
 ---
 <small> Questa è la traduzione di Lin, D., Crabtree, J., Dillo, I. et al. The TRUST Principles for digital repositories. *Sci Data* **7**, 144 (2020). [DOI](https://doi.org/10.1038/s41597-020-0486-7)</small>
 

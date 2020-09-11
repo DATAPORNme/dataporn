@@ -3,7 +3,6 @@ layout: post
 title:  "Catalanata 4 committente"
 date:   2020-04-19
 tags:
-  - dataporn
   - catalanate
 ---
 

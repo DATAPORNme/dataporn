@@ -16,7 +16,7 @@ C'erano e ci sono i distretti in Veneto. La scarpa nel Brenta, gli occhiali nel 
 >
 > *Non serviva il certificato d'origine. Le cose belle partivano da qui e andavano in tutto il mondo. Partivano dai piccoli capannoni costruiti dietro casa, dove lavoro e vita si mischiavano tra litigate e bestemmie, e andavano ovunque. Imprese piccole e medie. Anche piccolissime. Specializzate. Altamente specializzate.*
 
-> *Nel 2009 qui si parlava già di filiera. Già da prima era un sistema imprenditoriale favoloso. Tutti facevano schei e tutti li reinvestivano qui. Tutti lavoravano direttamente o indirettamente con mondo dei mobilifici.*
+> *Nel 2009 qui si parlava già di filiera. Già da prima era un sistema imprenditoriale favoloso. Tutti facevano schei e tutti li reinvestivano qui. Tutti lavoravano direttamente o indirettamente con il mondo dei mobilifici.*
 
 > *Ognuno però facendosi i cazzi suoi. Perché qui qualcuno aveva cercato di metterli insieme in una rete, creando una specie di consorzio. Orgoglio della politica veneta. Per far vedere che avevano a cuore le aziende e che sapevano le dinamiche internazionali.*
 
@@ -28,7 +28,7 @@ C'erano e ci sono i distretti in Veneto. La scarpa nel Brenta, gli occhiali nel 
 
 > *Perché? Perché qui, come in altri posti del Veneto, ci sono tanti che fanno impresa ma pochi che sono imprenditori. Perché le dimensioni contano, per dio, e se sei troppo piccolo anche se bravo, fai il doppio di fatica.*
 
-> *Perché far impresa non significa solo produrre. Perché il guadagno evaso messo da parte, frutto di sacrifici e bestemmie, prima o poi finisce. Perché qui tutti si sono dimenticati di chi che erano prima. Perché la cultura imprenditoriale, qua come altrove, è mancata.*
+> *Perché far impresa non significa solo produrre. Perché il guadagno evaso messo da parte, frutto di sacrifici e bestemmie, prima o poi finisce. Perché qui tutti si sono dimenticati di chi erano prima. Perché la cultura imprenditoriale, qua come altrove, è mancata.*
 
 > *Perché una mano agli imprenditori gliela dai quando hanno bisogno, non solo in campagna elettorale. Perché sono brutte bestie e non è facile averci a che fare, perché sono genuini e non gli servono inglesismi milanesizzati. Qui era da provare a SALVARE IL SALVABILE.*
 
@@ -50,4 +50,4 @@ C'erano e ci sono i distretti in Veneto. La scarpa nel Brenta, gli occhiali nel 
 
 > *Perché io qui ho visto imprenditori in lacrime portare i libri in tribunale. Perché io da qui ho visto imprenditori con una corda al collo. Perché io da qui ho visto come alla politica non frega nulla quando le cose vanno male.*
 
-> *Ma qui ho imparato tante cose. E se dovessi riprendere un'altra sfida professionale e personale, ripartirei da qui. Quella personale nel capannone dove vado adesso. Quello del 007 Marcantonio Bragadin+*
+> *Ma qui ho imparato tante cose. E se dovessi riprendere un'altra sfida professionale e personale, ripartirei da qui. Quella personale nel capannone dove vado adesso. Quello del [007 Marcantonio Bragadin](https://it.wikipedia.org/wiki/Serenissimi)*

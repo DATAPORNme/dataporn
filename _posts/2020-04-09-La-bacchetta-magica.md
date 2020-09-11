@@ -4,7 +4,6 @@ title:  "La bacchetta magica"
 date:   2020-04-09
 tags:
   - data
-  - dataporn
 ---
 
 Luca Sofri analizza [la questione delle nostre teste](https://www.wittgenstein.it/2020/04/08/le-nostre-teste-e-amen/). Quando accettiamo la complessità? Quanto siamo disposti a interrogare la realtà senza il cuscino dei pregiudizi?

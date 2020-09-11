@@ -3,9 +3,7 @@ layout: post
 title:  "Netflix e servizi web per dati dei beni culturali"
 date:   2020-04-20
 tags:
-  - dataporn
-  - data
-  - beni culturali
+  - data heritage
 ---
 
  Il 17 aprile 2020 il ministro del MiBACT Franceschini [ha dichiarato](https://www.raiplay.it/video/2020/04/aspettando-le-parole-269ce1f4-ca5f-48bb-8508-207ea89ba76e.html), in riferimento alle iniziative dei vari enti [#iorestoacasa La cultura non si ferma](https://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Comunicati/visualizza_asset.html_422536076.html), (dal minuto 59:40)

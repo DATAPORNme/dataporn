@@ -3,7 +3,6 @@ layout: post
 title:  "Ci sono dati sporchi"
 date:   2020-01-14
 tags:
-  - data
   - dataporn
 ---
 

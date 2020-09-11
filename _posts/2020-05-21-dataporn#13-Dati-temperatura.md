@@ -3,8 +3,6 @@ layout: post
 title:  "Dataporn #13 Dati e temperature"
 date:   2020-05-21
 tags:
-  - data
-  - dataporn
   - podcast
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title:  "Prophets and cocks"
 date:   2019-10-18
 tags:
-  - data
   - dataporn
 ---
 
