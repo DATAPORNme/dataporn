@@ -3,7 +3,7 @@ layout: post
 title:  "Ve conto 'na storia"
 date:   2020-09-07
 tags:
-  - data
+  - storie
 ---
 
 Una piccola premessa. Per chi nasce in Veneto, la propria terra è una faccenda complessa. Da una parte è da trasformare dall'altra è da rimpiangere. La Laguna, i giardini alla veneta. Il bello era tale se anche produceva. Ma il bello chiede fatica, e fu spostata solo sulla produttività: casotti instancabili diventano capannoni, che oggi guardano il cielo senza tetti per non pagare l'IMU. Leggere "Luoghi e paesaggi" di Zanzotto fa male al cuore e alla mente.
