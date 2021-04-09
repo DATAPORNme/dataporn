@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <title> </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css">
+  <body>
+
+  </body>
+</html>
+<html lang="{{ page.lang | default: site.lang | default: "" }}" dir="ltr">
+  {%- include head.html -%}
+  <body class="vh-100 dt w-100">
+    <h1 class="ttu sans-serif f1 f-headline-l lh-title mv0 ">
+      <span class="bg-black-90 lh-copy washed-red pa1 tracked-tight">
+        <a class="bg-black-90 lh-copy washed-red pa1 tracked-tight hover-bg-black-90" href="/">{{ page.title }}</a>
+      </span>
+    </h1>
+    <h3 class="f4-l f6 lh-solid ttu fw1 sans-serif pa1 tracked-l">
+        {{ page.payoff }}
+
+    </h3>
+    {{ content }}
+    {%- include footer.html -%}
+  </body>
+</html>
