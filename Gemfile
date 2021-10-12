@@ -36,3 +36,5 @@ gem "jekyll-sitemap"
 gem "jekyll-paginate"
 gem "rouge"
 gem "html-proofer"
+
+gem "webrick", "~> 1.7"
