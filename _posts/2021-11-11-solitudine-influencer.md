@@ -6,7 +6,7 @@ tags:
   - dataporn
 ---
 
-Potrei iniziare con una citazione colta, ma le parole di chi amo e odio per la profondità e luminosità, hanno una distanza dalla mia realtà: loro non avevano i social. Loro sono ancora importanti, ma non sono stati influencer. Loro non avevano il conteggio di chi li seguiva. Loro avevano relazioni fatte di carta, di strette di mano, di sguardi al massimo di audio e video. I loro audio e video gli venivano dati ma non li possedevano. Erano come noi, ma non controllavano gli strumenti della comunicazione. Quindi controllavano gli effetti del linguaggio e del discorso.
+Potrei iniziare con una citazione colta, ma le parole di chi amo e odio per la profondità e luminosità, hanno una distanza dalla mia realtà: loro non avevano i social. Quelle sono ancora importanti, ma non sono state di influencer. Quelle non avevano il conteggio di chi li seguiva. Quelle avevano relazioni fatte di carta, di strette di mano, di sguardi al massimo di audio e video. Gli audio e video di quegli autori gli venivano dati ma non li possedevano. Erano come noi, ma non controllavano gli strumenti della comunicazione. Quindi controllavano gli effetti del linguaggio e del discorso.
 
 Chi incide sulle menti e sulle vite di altri umani, macina il pensiero per fare con efficienza e efficacia. Sceglie e lima. Fatica sulla disciplina e sull'attesa.
 
