@@ -35,3 +35,6 @@ Potrebbe sembrare uno dei tanti post passivo-aggressivo, in cui il genio incompr
 > un episodio che amo ricordare. Era l'inverno del 2017, che peraltro fu un invero rigidissimo, e alcuni ricercatori del CNR non sopportando un sistema a basso costo per condividere i dati con DOI uscirono dall'ufficio sbattendo la porta. Io allora li raggiunsi, li fissai negli occhi e dissi loro "da domani per gestirete i dati sarà come andare in giro senza scarpe, a piedi nudi". La sera stessa trovai nella mia casella una mail. Sapete cosa c'era scritto? **'A STRONZO PUNTO ESCLAMATIVO!**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GvriD86-tEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+PS: per chi non avesse confidenza con la bibliografia completa di Germano Mosconi, uomo di grande classe (ma per davvero!) e ottimo giornalista
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tK6SschgDec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
