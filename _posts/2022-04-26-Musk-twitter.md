@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Musk e Twitter"
-date:   2022-04-25
+date:   2022-04-26
 tags:
   - dataporn
 ---
 
-[Elon Musk ha comprato Twitter](https://www.wsj.com/livecoverage/twitter-elon-musk-latest-news/card/musk-twitter-deal-values-company-at-around-44-billion-MdEXkyNxU0GbJ1kqBc1M) e si sta scatenando il dibattito. Siccome il dibattito a caso non mi interessa, mi appunto una serie di osservazioni.
+[Elon Musk ha comprato Twitter](https://www.wsj.com/livecoverage/twitter-elon-musk-latest-news/card/musk-twitter-deal-values-company-at-around-44-billion-MdEXkyNxU0GbJ1kqBc1M)e così mi appunto una serie di osservazioni.
 
 ## Musk e gli altri ambiti
 Musk ha operato nell'ambito dei pagamenti online, della mobilità elettrica, dei viaggi spaziali. Ha trasformato tutti questi ambiti modificando la percezione degli strumenti che usava. Questa trasformazione la otteneva partendo dal processo di disintermediazione totale. Paypal era un servizio che ti permetteva di pagare online in maniera sicura; Tesla è un'auto elettrica che non inquina; SpaceX va nello spazio riutilizzando i razzi. Ognuno dei tre hanno una missione chiara, ma sono solo la punta dell'affare.
