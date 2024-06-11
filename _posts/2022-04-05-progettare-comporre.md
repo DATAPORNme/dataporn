@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Progettare è equilibrio"
-date:   2022-04-05
+title: Progettare è equilibrio
+date: {}
 tags:
   - dataporn
 ---
@@ -50,5 +50,4 @@ Purtroppo il mio condizionamento è la mia formazione. Sono stato un pittore per
 Gli schemi riducono il ricorso alla metafora perché mostrano come un progetto vuole inserire le attività nel contesto. Allo stesso modo i metodi mostrano come verranno svolte le attività senza inventare ogni volta qualcosa di nuovo. Un progetto deve dare entusiasmo e confidenza al contesto, tanto più l'obiettivo vuole agire nel contesto.
 
 ## Progettare è equilibrio
-Ci vuole pazienza, basterebbe come sintesi di tutte queste parole. Serve pazienza per capire la lingua del contesto, adattare l'obiettivo al tema, mettere in risalto l'oggetto, il tutto per fare in modo che il progetto sia uno strumento per aiutare il contesto a migliorarsi. Un progetto è l'equilibrio tra tutte le parti. 
-
+Ci vuole pazienza, basterebbe come sintesi di tutte queste parole. Serve pazienza per capire la lingua del contesto, adattare l'obiettivo al tema, mettere in risalto l'oggetto, il tutto per fare in modo che il progetto sia uno strumento per aiutare il contesto a migliorarsi. Un progetto è l'equilibrio tra tutte le parti.
